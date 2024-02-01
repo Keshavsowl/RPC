@@ -1,2 +1,2 @@
 # RPC
-Code of RPC
+Detector Construction Code of RPC
